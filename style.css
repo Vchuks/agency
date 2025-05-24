@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@font-face {
+    font-family: gilroy;
+    src: url(assets/fonts/Gilroy-Bold.ttf);
+}
+@font-face {
+    font-family: gilroy2;
+    src: url(assets/fonts/Gilroy-Medium.ttf);
+}
+@font-face {
+    font-family: gilroy3;
+    src: url(assets/fonts/Gilroy-Regular.ttf);
+}
+
+
+
+.brainwave{
+     font-family: "Rubik", sans-serif;
+     font-size: 24px;
+     color: #161C2D;
+}
+
+.nav-link{
+    font-size: 15px;
+    color: #161C2D;
+}
+
+.buttonClass{
+    font-family: "Rubik", sans-serif;
+     font-size: 15px;
+     background-color: #473BF0;
+     color: #FFFFFF;
+
+}
+
+/* --------------- */
+
+.ftext{
+    font-family: gilroy;
+    font-size: 13px;
+}
+
+
+.stext{
+    font-family: gilroy;
+    font-size: 36px;
+    color: #161C2D;
+    width: 600px;
+}
