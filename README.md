@@ -1,7 +1,7 @@
 # agency
 landing page
 
-### fork the repo
-### clone the repo
-### create your branch
-### push your update
+### Step1: fork the repo
+### Step2: clone the repo
+### Step3: create your branch
+### Step4: push your update
